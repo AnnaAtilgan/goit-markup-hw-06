@@ -744,6 +744,7 @@ footer-icons .footer-socials {
 
 .modal-form-agreement-link {
   color: var(--acsent-colour);
+  text-underline-offset: 3px;
 }
 
 .modal-form-checkbox {
